@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## 👋 Hi there 
+- 🧑‍💻 I'm a backend engineer.
+- 🌱 I'm currently learning JavaScript!
+## 🌱 Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,discordjs,nodejs,bun,figma,cloudflare&perline=10)](https://skill-icons-builder.vercel.app/)
 <!--
 **ay0r6/ay0r6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
