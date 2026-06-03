@@ -1,8 +1,9 @@
 ## 👋 Hi there 
+- 🔭 I'm a student.
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I'm currently learning JavaScript!
+- 🌱 I'm currently learning JavaScript and TypeScript!
 ## 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,discordjs,nodejs,bun,figma,cloudflare&perline=10)](https://skill-icons-builder.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,discordjs,nodejs,bun,figma,cloudflare&perline=10)](https://skill-icons-builder.vercel.app/)
 <!--
 **ay0r6/ay0r6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
